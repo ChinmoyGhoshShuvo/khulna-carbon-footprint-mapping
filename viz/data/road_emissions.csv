@@ -1,0 +1,5 @@
+# Source: report Table 17 (Carbon Emission from Roads). total_carbon as printed (treated as kg CO2e).
+material,area_sq_km,coefficient,total_carbon
+Aggregate,0.040696288,7.75,6390132120
+Bituminous,0.452746204,39.21,113542643.5
+Earthen,0.13236,0,0

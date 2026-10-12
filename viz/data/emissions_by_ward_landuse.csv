@@ -1,0 +1,5 @@
+# Source: report Table 14 and Table 16 (Carbon Emission per ward / per phase). Values are the raw totals printed in Table 16 and the summary (treated as kg CO2e, as the report's final step does); Table 14 prints the same values divided by 10,000.
+ward,residential_production,residential_operation,commercial
+17,1074414176,4939,3435815
+18,43427230,4914,1075256
+19,755838336,10374,1229499

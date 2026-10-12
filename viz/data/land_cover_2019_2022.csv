@@ -1,0 +1,24 @@
+# Source: report Tables 18-21 (Land coverage in the study area, 2019-2022). Class "0" in 2020 and 2021 is shown as Unclassified.
+year,class,area_sq_km
+2019,Waterbody,0.009
+2019,Built-up,18.936
+2019,Barren land,4.671
+2019,Grass land,1.71
+2019,Sparse vegetation,0.09
+2020,Unclassified,0.036
+2020,Waterbody,0.027
+2020,Built-up,23.202
+2020,Barren land,1.494
+2020,Grass land,0.639
+2020,Sparse vegetation,0.018
+2021,Unclassified,0.099
+2021,Waterbody,0.009
+2021,Built-up,15.984
+2021,Barren land,5.823
+2021,Grass land,3.069
+2021,Sparse vegetation,0.432
+2022,Waterbody,0.018
+2022,Built-up,24.705
+2022,Barren land,0.558
+2022,Grass land,0.135
+2022,Sparse vegetation,0
